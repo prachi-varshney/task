@@ -1,0 +1,136 @@
+<table>
+    <thead>
+      <style>
+        table,td,th,tr{
+            border:1px solid black;
+            border-collapse: collapse;
+          }
+          
+            .header-section {
+            padding: 5px;
+            border: 2px black;
+        }      
+                   
+          .spacer {
+              display: inline-block; /* Allows margin to take effect */
+              width: 5cm; /* Set the width to 20 cm */
+          }
+           .square-checkbox {
+              display: inline-block;
+              width: 15px; 
+              height: 15px; 
+              border: 2px solid #000;
+              margin-right: 5px; 
+              cursor: pointer;
+              vertical-align: middle; 
+              .positioned-text {
+              position: absolute;
+              right: 15px; /* Adjust as needed */
+          }
+          td.none {border-style: none;}
+      </style>
+    </thead>
+    <body>
+    <table>
+     
+    
+      <tr>
+      <td colspan ="6" align="center">CONSIGNMENT NOTE<br>SAN Softwares<br>419, 4TH Floor, M3M Urbana Sector 67, Gurgaon, PIN code: 122018<br>phone no.<br><br>
+      <span>
+                    SERVICE TAX No :
+                </span>
+                <span>
+                    AT OWNER'S RISK
+                </span>
+                <span>
+                    PAN No: ATRPS4807R
+                </span>
+      
+      </td>
+      
+       <td  rowspan="2">To Billed At------<br>
+          Mode of payment<br>
+          <span style="display: flex; align-items: left;">
+              <span class="square-checkbox"></span>TBB 
+              <span class="square-checkbox"></span>to pay 
+              <span class="square-checkbox"></span> Paid 
+          </span>
+          Billing party------<br>
+          service tax payable by<br>
+          <span style="display: flex; align-items: center;">
+              <span class="square-checkbox"></span> consignor 
+              <span class="square-checkbox"></span> consignee 
+              <span class="square-checkbox"></span> transported
+          </span>
+          </td>
+          
+          
+          </tr>
+          <tr>
+              
+         <tr> 
+          <td class="header-section"colspan="3">Consignor: A.P. Cranes Pvt. Ltd.<br>
+            Address: G-1, 111-112, Chopanki Ind Area, Bhiwadi<br>
+            Phone:<br>
+            CST No:<br>
+            LST No:<br></td>
+              <td   colspan="3">Consignor: A.P. Cranes Pvt. Ltd.<br>
+            Address: G-1, 111-112, Chopanki Ind Area, Bhiwadi<br>
+            Phone:<br>
+            CST No:<br>
+            LST No:<br></td>
+              <td style="border: ;">C.N. NO.: HCSN/300<br>
+            BOOKING DATE: 15/02/2022 18:17:26<br>
+            Vehicle No.: HR-38M-0567<br>
+            Container No:<br>
+            Seal No:<br>
+            Ref no.</td>
+            
+            
+           
+       
+        
+      </tr>
+       <tr>
+        <td> No of<br> PKGS  </td>
+        <td   style="width:40%">Number of goods said to contain     </td>
+        <td>Net<br> Weight    </td>
+        <td>Gross<br> Weight  </td>
+        <td> Rate   </td>
+        <td>Freight<br> Rs.   </td>
+        <td>  Acknowledgment   </td>
+      </tr>
+       <tr>
+         <td style="height:300px; text-align:left; vertical-align:top;"> 0 </td>
+        <td style="height:300px; text-align:left; vertical-align:top;" >1*20/2 CONTAINER   </td>
+        <td style="height:300px; text-align:left; vertical-align:top;">1.000</td>
+        <td>     </td>
+        <td>    </td>
+        <td>   </td>
+        <td>     </td>
+      </tr>
+     <tr>
+          <td style="height: 30px;" colspan="6">Invoice NO.<span class="spacer"></span>Invoice Dt.<span class="spacer"></span>Invoice value<span class="spacer"></span>0.00</td>
+          <td style="border-bottom: none;">
+    received signature
+</td>
+     
+       </tr>
+         <tr>
+       <td style="height: 30px;" colspan="6">Terms and Condition:<br>
+                  A) The Goods are Booked at Owner's Risk unless / otherwise specifically certified by the Company.<br>
+                  B) The Company will not be responsible for Leakage / damage by Sun, Fire, Rain or Loss by Theft, Pilferage, Civil Riots.<br>
+                  C) The Company shall not be responsible if the goods are detained, seized, or confiscated by Government or Public authorities.<br>
+                  D) The Consignor shall be responsible to pay Octroi, Govt Taxes, Penalty, terminal tax, demurrages & other incidental charges,
+                  if any as imposed demanded by the Govt for the goods dispatched.<br>
+                  E) Company takes no responsibility for breakdown of vehicle enroute and of the consequences thereof.<br>
+                  F) All disputes are subject to jurisdiction of Delhi</td>
+        
+       <td style="vertical-align: top; text-align:right; border-bottom: none; ">
+ For SAN Softwares<br><br><br><br><br><br><br><br><br><br><br><br><br> <br><br>Auth signature</td>
+      </tr>
+       
+    </body>
+  
+   </table>
+  
