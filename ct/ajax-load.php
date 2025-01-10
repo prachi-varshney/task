@@ -45,8 +45,8 @@ while ($row = mysqli_fetch_assoc($result)) {
                 <td>{$row['Salary'] }</td>
                 <td>{$row['Bio'] }</td>
                 <td>{$row['Image'] }</td>
-                <td><button class='delete-btn' data-id='{$row['ID'] }'>delete</button> <br>
-                <button class='update-btn' data-id='{$row['ID'] }'>update</button></td>
+                <td><button class='delete-btn' data-id='{$row['ID'] }'>Delete</button> <br>
+                <button class='edit-btn' data-eid='{$row['ID'] }'>Edit</button></td>
 
                   
                 
